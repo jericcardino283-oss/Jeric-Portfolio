@@ -3,7 +3,7 @@
 A warm, friendly, animated developer portfolio, built with React, GSAP and lots of little details.
 Free to use: fork it, edit **one file**, swap in your photos, and ship it.
 
-Made by **[Lohitha Damisetti](https://github.com/lohithadamisetti123)**.
+Made by **[Jeric Cardiño](https://github.com/jericcardino283-oss)**.
 
 ## ✨ Highlights
 
@@ -23,8 +23,8 @@ React 19 · Vite · GSAP (ScrollTrigger, SplitText, Draggable) · Lenis · Brico
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/lohithadamisetti123/Peach-Portfolio.git
-cd Peach-Portfolio
+git clone https://github.com/jericcardino283-oss/Jeric-Portfolio.git
+cd Jeric-Portfolio
 npm install
 npm run dev        # http://localhost:5173
 ```
